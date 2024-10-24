@@ -326,3 +326,4 @@ associated with market volatility and competition cannot be overlooked.
 Investors should remain vigilant, regularly evaluating financial performance, 
 market sentiment, and industry trends to make informed investment decisions. 
 
+<img src="https://github.com/sachinrawat25/netflix-stock-market-analysis/blob/main/Screenshot%202024-10-24%20144249.png?raw=true" height="400" width="700">
