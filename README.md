@@ -3,7 +3,8 @@
 # Netflix Stock Market Analysis Project Report 
 
 https://cumailin-my.sharepoint.com/:u:/g/personal/23mca20468_cuchd_in/EZcWebPaRLhDtNwpG5HyDX0BQAY1xwgRmmQkBNoALNafBQ?e=bkOBQg
-
+<img src="https://github.com/sachinrawat25/netflix-stock-market-analysis/blob/main/Screenshot%202024-10-24%20144219.png
+"
 
 1. ABSTRACT:   
    
