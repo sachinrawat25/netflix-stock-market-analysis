@@ -171,6 +171,7 @@ behavior and guiding investment strategies. By understanding these concepts,
 investors can enhance their ability to navigate the complexities of the financial 
 markets. 
 
+<img src="https://github.com/sachinrawat25/netflix-stock-market-analysis/blob/main/Screenshot%202024-10-24%20144232.png?raw=true" height="400" width="700">
 5.EXISTING SYSTEM:   
 11   
 Current Systems for Stock Market Analysis 
